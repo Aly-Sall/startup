@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/mac/Documents/Cracked/Front-end/startup/app/%28root%29/layout.tsx"],"sourcesContent":["import Navbar from \"@/app/components/Navbar\";\nexport default function Layout({ children }: { children: React.ReactNode }) {\n  return <main className=\"font-work-sans\">{children}</main>;\n}\n"],"names":[],"mappings":";;;;;AACe,SAAS,OAAO,EAAE,QAAQ,EAAiC;IACxE,qBAAO,8OAAC;QAAK,WAAU;kBAAkB;;;;;;AAC3C"}},
-    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}
